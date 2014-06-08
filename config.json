@@ -1,0 +1,32 @@
+{
+    "sets": [
+        {
+            "font": "/Library/Fonts/ヒラギノ明朝 Pro W6.otf",
+            "size": "23",
+            "color": "#000",
+            "convert": [
+                {
+                    "label": "タイトル画像1",
+                    "imgpath": "img/txt_title1.png"
+                }, {
+                    "label": "タイトル画像2",
+                    "imgpath": "img/txt_title2.png"
+                }
+            ]
+        }, {
+            "size": "29",
+            "font": "/Library/Fonts/ヒラギノ角ゴ Pro W6.otf",
+            "color": "#EA5304",
+            "convert": [
+                {
+                    "label": "0123456789",
+                    "imgpath": "img/num_0123456789.png"
+                }, {
+                    "label": "9876543210",
+                    "imgpath": "img/num_9876543210.png",
+                    "color": "#f33"
+                }
+            ]
+        }
+    ]
+}
